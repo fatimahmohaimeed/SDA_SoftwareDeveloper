@@ -1,1 +1,1 @@
-# SDA_SoftwareDeveloper
+# Software development bootcamp trainee at SDA
